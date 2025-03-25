@@ -34,12 +34,12 @@
  ### 🌐 Languages
 <div style="display:flex; flex-direction:row; gap:10px;">
 <img height="32" width="32" src="https://cdn.simpleicons.org/swift/white" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/flutter/white" /> 
 <img height="32" width="32" src="https://cdn.simpleicons.org/c/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/sharp/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/python/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/latex/white" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/flutter/white" /> 
 <img height="32" width="32" src="https://cdn.simpleicons.org/react/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs/white" />
