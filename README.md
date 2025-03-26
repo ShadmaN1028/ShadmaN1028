@@ -59,12 +59,13 @@
  </div>
 
  ---
- <h1 align="center">
+
+ 
  ### ⚡ My Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ShadmaN1028&theme=dark)](https://git.io/streak-stats)<br>
 ![Top Langs](https://github-readme-stats-r1ht.vercel.app/api/top-langs/?username=ShadmaN1028&layout=compact&theme=vision-friendly-dark&hide_border=true&card_width=450&border_radius=10)<br>
 ![Anurag's GitHub stats](https://github-readme-stats-r1ht.vercel.app/api?username=ShadmaN1028&bg_color=000000&title_color=FF5900&text_color=FFFFFF&hide_border=true&border_radius=10)
- </h1>
+
 
 ---
 ### 🏆 My Contributions
