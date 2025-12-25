@@ -6,7 +6,7 @@
  
   
   <a href="https://www.linkedin.com/in/shadmansaleheen/">
-<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/white" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" />
   </a>
   <a href="https://www.facebook.com/shadman.1028">
 <img height="32" width="32" src="https://cdn.simpleicons.org/facebook/FFFAFA" />
