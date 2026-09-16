@@ -54,7 +54,6 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/mysql/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/unity/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/figma/white" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/canva/white" />
  
  </div>
 
