@@ -34,6 +34,7 @@
  ### 🌐 Languages
 <div style="display:flex; flex-direction:row; gap:10px;">
 <img height="32" width="32" src="https://cdn.simpleicons.org/swift/white" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/kotlin/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/flutter/white" /> 
 <img height="32" width="32" src="https://cdn.simpleicons.org/c/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus/white" />
@@ -47,7 +48,6 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/typescript/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/shadcnui/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss/white" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/css3/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/html5/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/php/white" /> 
 <img height="32" width="32" src="https://cdn.simpleicons.org/bun/white" />
